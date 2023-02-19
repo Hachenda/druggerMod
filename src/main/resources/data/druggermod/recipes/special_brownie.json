@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "P": {
+      "item": "druggermod:processed_weed"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "PSP",
+    "CCC"
+  ],
+  "result": {
+    "count": 8,
+    "item": "druggermod:special_brownie"
+  }
+}

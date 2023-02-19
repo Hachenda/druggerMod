@@ -1,0 +1,12 @@
+{
+  "item.druggermod.weed": "Marihuana",
+  "item.druggermod.weed_seeds": "Semillas de marihuana",
+  "item.druggermod.processed_weed": "Cogollo",
+  "item.druggermod.special_brownie": "Brownie con condimentos",
+  "item.druggermod.special_cookie": "Galleta con condimentos",
+  "item.druggermod.joint": "Porro",
+
+  "block.druggermod.weed_crop": "Cultivo de marihuana",
+
+  "itemgroup.fumeteo_remix": "Fumeteo Remix"
+}
